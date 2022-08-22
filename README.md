@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sheikh Wazid
 #### I am Full-stack JavaScript Developer
-![I am Full-stack JavaScript Developer](https://twitter.com/swazidr/header_photo)
+![I am Full-stack JavaScript Developer](https://pbs.twimg.com/profile_banners/602091205/1659639085/1080x360)
 
 I'm Sheikh Wazid. Full-Stack JavaScript Developer & web3 Blockchain Developer with SOL Network.
 
